@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Tugas2 PPL</string>
+    <string name="tanggal">Tanggal Transaksi</string>
+    <string name="toko">Toko Sagala</string>
+    <string name="nama">Nama Pembeli :</string>
+    <string name="makanan">Makanan :</string>
+    <string name="makanan1">Uleg</string>
+    <string name="hargamak1">IDR 35000</string>
+    <string name="makanan2">Urab</string>
+    <string name="hargamak2">IDR 30000</string>
+    <string name="makanan3">Karedok</string>
+    <string name="hargamak3">IDR 25000</string>
+    <string name="minuman">Minuman :</string>
+    <string name="minuman1">Es Teh</string>
+    <string name="hargamin1">IDR 10000</string>
+    <string name="minuman2">Es Teh Manis</string>
+    <string name="hargamin2">IDR 18000</string>
+    <string name="minuman3">Es Teh Lemon</string>
+    <string name="hargamin3">IDR 15000</string>
+    <string name="sub">Sub Total :</string>
+    <string name="pajak">Pajak 10% :</string>
+    <string name="total">Total :</string>
+    <string name="tunai">Tunai :</string>
+    <string name="kembalian">Kembalian :</string>
+    <string name="jumlah">Jumlah :</string>
+
+
+    <string name="buntu">BUNTU</string>
+    <string name="menuju">Jl.Menuju Tak Terbatas Dan Melampauinya</string>
+    <string name="telp">Telp/WhatsApp 089876543210</string>
+    <string name="sudah">Sudah Menghabiskan Uang Anda</string>
+    <string name="terima">TERIMA KASIH</string>
+</resources>
